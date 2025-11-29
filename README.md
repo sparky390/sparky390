@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there,I'm Surya 👋
 
-<!--
-**sparky390/sparky390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer (Java)
 
-Here are some ideas to get you started:
+I'm a developer focused on building web applications using **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**.
+Currently pursuing **MCA at Vels University** and looking for **internship opportunities** in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Java, Spring Boot
+* **Database:** MySQL
+* **Other:** Networking basics, Automation, Drone systems
+
+---
+
+## 📫 Contact
+
+* **LinkedIn:** *[https://www.linkedin.com/in/surya-sundars/](https://www.linkedin.com/in/surya-sundars/)*
+* **Location:** Chennai
+
+---
+
