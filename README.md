@@ -6,12 +6,10 @@ I'm a developer focused on building web applications using **Java, Spring Boot, 
 Currently pursuing **MCA at Vels University** and looking for **internship opportunities** in software development.
 I enjoy working on innovative ideas ranging from **web applications** to **automation and drone technologies**.
 
----
 ## 🚀 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode" />
 </p>
----
 
 ## 🔧 Skills & Interests
 
