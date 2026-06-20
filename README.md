@@ -2,7 +2,7 @@
 
 ## Full Stack Developer (Java)
 
-I'm a developer focused on building web applications using **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**.
+I'm a developer focused on building web applications using **Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL**.
 Currently pursuing **MCA at Vels University** and looking for **internship opportunities** in software development.
 I enjoy working on innovative ideas ranging from **web applications** to **automation and drone technologies**.
 
@@ -14,12 +14,12 @@ I enjoy working on innovative ideas ranging from **web applications** to **autom
 ## 🔧 Skills & Interests
 
 - 💻 Full Stack Development  
-- ☕ Java & Spring Boot  
+- ☕ Java & Spring Boot
+- 🤖 Artificial Intelligence & Machine Learning  
 - 🌐 Frontend Development  
 - 🗄️ Database Management (MySQL)  
 - ⚙️ Automation Systems  
-- 🚁 Drone & Embedded Technologies  
-- 🌍 Networking Basics  
+- 🚁 Drone & Embedded Technologies    
 ---
 
 ## 🌐 Connect With Me
