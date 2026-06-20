@@ -8,7 +8,7 @@ I enjoy working on innovative ideas ranging from **web applications** to **autom
 
 ## 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,python,mysql,git,github,vscode" />
 </p>
 
 ## 🔧 Skills & Interests
